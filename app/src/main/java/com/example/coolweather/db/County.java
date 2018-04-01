@@ -3,7 +3,7 @@ package com.example.coolweather.db;
 import org.litepal.crud.DataSupport;
 
 /**
- * Created by dell on 2018/3/31.
+ * Created by SSMutex on 2018/3/31.
  */
 
 public class County extends DataSupport {
